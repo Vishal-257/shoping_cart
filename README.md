@@ -14,11 +14,11 @@ The use of useState handles the core logic for filtering and cart updates, while
 Installation Guide:
 1. Create a new folder.
 2. Download the project files in your folder:
-    git clone <repo-url>
+    ```git clone <repo-url>```
 3. In your terminal cd to the respective folder:
-    cd <project-folder>
+    ```cd <project-folder>```
 4. Install all the dependencies:
-    npm install
+    ```npm install```
 5. Now run the project by:
-    npm run dev
+    ```npm run dev```
 The project will be live on http://localhost:5173/
